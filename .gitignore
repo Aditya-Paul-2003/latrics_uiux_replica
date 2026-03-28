@@ -1,0 +1,5 @@
+# Root
+node_modules/
+devserver.err.log
+devserver.out.log
+.env
